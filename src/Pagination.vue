@@ -179,6 +179,6 @@ export default {
 }
 
 .VueCarousel-dot:focus {
-  outline: 1px solid lightblue;
+  outline: none;
 }
 </style>
